@@ -1,0 +1,159 @@
+#EXTM3U
+#EXTINF:-1,INDOSIAR
+http://202.80.222.130/000001/2/ch00000090990000001730/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN INDONESIA
+http://202.80.222.130/000001/2/ch00000090990000001706/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,ELSHINTA TV
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1,CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
+#EXTINF:-1,TRANS 7
+http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
+
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+
+#EXTINF:-1,RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,INSAN
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
+#EXTINF:-1,AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8
+
+#EXTINF:-1,group-title="ISLAMI"AHSAN TV - Backup
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:-1,AL BAHJAH
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+
+#EXTINF:-1,group-title="ISLAMI"AL-IMAN TV
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384000_sleng.m3u8
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
+
+#EXTINF:-1,SPORTSMAX
+http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8
+
+#EXTINF:-1,REAL MADRID TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1,REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1,Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+
+#EXTINF:-1,Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+
+#EXTINF:-1,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+
+#EXTINF:-1,Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+
+#EXTINF:-1,Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+
+#EXTINF:-1,Armenia TV (AM)
+http://ott-cdn.ucom.am/s4/index.m3u8
+
+#EXTINF:-1,Disney Junior (New!)
+http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+
+#EXTINF:-1,Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,MNC News
+http://202.80.222.130/000001/2/ch14041511564438196910/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Rajawali TV (Opt-1)
+http://202.80.222.171:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT2198020181031055334464619
+
+#EXTINF:-1,Rajawali TV (Opt-2)
+http://202.80.222.170/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com&IASHttpSessionId=OTT219992019062322543114287379
+
+#EXTINF:-1,Rajawali TV (Opt-3)
+http://202.80.222.170:80/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,Rajawali TV (Opt-5)
+http://202.80.222.130/000001/2/ch00000090990000001716/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1739117867_b1492000_sleng.m3u8
+
+#EXTINF:-1,METRO TV HD
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+
+#EXTINF:-1,JTV
+http://122.248.43.138:1935/ch2/myStream/chunklist_w1843041589.m3u8
+
+#EXTINF:-1,JTV HD
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+
+#EXTINF:-1,AREK TV SURABAYA
+http://stream2.ninmedia.tv/arektv/arek_360p/playlist.m3u8
+
+#EXTINF:-1,TV 9 NUSANTARA
+http://wowza60.indostreamserver.com:1935/tv9/live/playlist.m3u8
+
+#EXTINF:-1,CHINESE MOVIE
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+#EXTINF:-1,RETRO TV
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,KARAOKE CHANNEL
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+#EXTINF:-1,Karaoke Channel 2
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1,1 MUSICCOM
+http://rtmp.one.by:1300
+
+#EXTINF:-1,MTV HD
+http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1,MTV JAPAN
+http://122.155.180.8:5021/live/52
+
+#EXTINF:-1,MTV SD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1,M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1,Ava Music
+http://51.15.236.137/hls/stream.m3u8
+
+#EXTINF:-1,MIX MUSIC
+http://edge.linknetott.swiftserve.com/channelgroup2/cg220production/ch364/05.m3u8
+
+#EXTINF:-1,Cine Voice
+http://live.wmncdn.net/cinevoice/508a8ec9dfdb9c61df9823aac272b719.sdp/mono.m3u8
+
+#EXTINF:-1,MTV
+http://161.0.157.7/PLTV/88888888/224/3221226825/index.m3u8
+
+#EXTINF:-1,JHANJAR MUSIC
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
